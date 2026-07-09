@@ -2,7 +2,7 @@
 
 Full-Stack Developer and final-year IT Engineering student at **Cosmos College of Management and Technology**, specializing in the **MERN stack**.
 
-Passionate about taking ideas from the first sketch to a finished product—designing the data model, building robust APIs, and crafting intuitive user interfaces that feel cohesive and purposeful. Experienced with **React**, **Node.js**, **Express**, **MongoDB**, and **JavaScript**, with a strong focus on writing clean, maintainable, and scalable code while continuously learning modern web technologies.
+Experienced with **React**, **Node.js**, **Express**, **MongoDB**, and **JavaScript**, with a strong focus on writing clean, maintainable, and scalable code while continuously learning modern web technologies.
 
 ## Portfolio Website
 
